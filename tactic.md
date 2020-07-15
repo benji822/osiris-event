@@ -37,18 +37,23 @@
 ## Middle Lane
 
 **Middle Lane Commander:** 昨日云烟（昨日云烟 use the T1 cavalry to occupy the middle building）
+
 **Middle Lane Group members:** 昨日云烟、BananaFuncy、Long1666、Technave、酷寒杀手
 
 ## Top Lane
 
 **Top Lane Rally Commander：** AoNe 阿一（AoNe 阿一 use the T1 Cavalry to occupy the Obelisk first）
+
 **Top Obelisk First TP members:** AoNe 阿一、Jon 雪諾、Xingzai、温柔及你、征北大将军
+
 **Top Lane Group members:** Thantalos、corolo、GanNiNa、--永--、严逆天、GOODMen、CN 刑天
 
 ## Bottom Lane
 
 **Bottom Lane Rally Commander：** GS 御（GS 御 use the T1 Cavalry to occupy the Obelisk first）
+
 **Bottom Obelisk First TP members:** GS 御、CharSiuPao、천안짜바리、DREX KOH、无一物
+
 **Bottom Lane Group members:** Altmsah0、Herald Anderson、무긔무리、呆萌熊猫人、matatabee、KINGShark、인숙킹
 
 ## Tips:
